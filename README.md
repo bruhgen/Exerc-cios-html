@@ -1,2 +1,2 @@
-# Exerc-cios-html
+# Exercicios-html
 Repositória para exercícios em HTML
